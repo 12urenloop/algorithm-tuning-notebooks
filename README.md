@@ -1,3 +1,17 @@
+# Algorithm development testbench
+
+This repo is a fork from FKD13's 12urenloop-hmmlearn repo, which was used for the course Machine Learning. It's now used for developing lapper algorithms.
+
+If you want to write your own algorithm, start with `additional_new_algorithm_testbench.ipynb`. Use the data in `data_reimport.zip` (and move the folder to `data`).
+
+A good simple lapper was implemented in `additional_new_algorithm_testbench.ipynb`, it's faster, simpler and less error prone than Viterbi.
+
+Content from FKD13's repo below:
+
+------------------
+
+
+
 # Dynamic parameter optimization of a HMM used in a lap counting algorithm
 
 ## Java
